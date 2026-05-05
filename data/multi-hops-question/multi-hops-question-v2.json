@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "type": "multi-hop",
+    "hops": ["inflection_ai", "openai"],
+    "chain": "Pi → Inflection AI → Microsoft acqui-hire → OpenAI (Microsoft $1B investment 2019)",
+    "question": "The personal AI assistant named Pi was created by a company whose entire 70-person workforce was acqui-hired by a tech giant in March 2024. Years before that acqui-hire, that same tech giant made a landmark $1 billion investment in an AI organization and migrated its services to Azure. Name that AI organization.",
+    "answer": "OpenAI. Pi was created by Inflection AI, whose workforce was acqui-hired by Microsoft. Microsoft had previously invested $1 billion in OpenAI in 2019 and migrated OpenAI's services to Microsoft Azure."
+  },
+  {
+    "id": 2,
+    "type": "multi-hop",
+    "hops": ["google_deepmind", "anthropic"],
+    "chain": "Suleyman co-founded DeepMind 2010 → Google acquired DeepMind 2014 → Google invested $500M in Anthropic Oct 2023",
+    "question": "A co-founder of a UK AI lab established in 2010 left that organization in December 2019 to work in a policy role at its acquiring company. That acquiring company later invested $500 million in an AI safety startup in October 2023. Name that AI safety startup.",
+    "answer": "Anthropic. Mustafa Suleyman co-founded DeepMind in 2010, which was acquired by Google in 2014. In October 2023, Google invested $500 million in Anthropic."
+  },
+  {
+    "id": 3,
+    "type": "multi-hop",
+    "hops": ["cohere", "google_deepmind"],
+    "chain": "Nick Frosst (Cohere co-founder) from Google Brain → Google Brain merged with DeepMind April 2023 → became Google DeepMind",
+    "question": "Nick Frosst, a co-founder of an enterprise LLM company, was a researcher at the same division of a tech company that published the landmark 'Attention Is All You Need' paper in 2017. That division was merged with another AI lab in April 2023 to form a new entity. Name that newly formed entity.",
+    "answer": "Google DeepMind. Nick Frosst co-founded Cohere and was a researcher at Google Brain — the division where Aidan Gomez co-authored the 'Attention Is All You Need' Transformer paper in 2017. In April 2023, Google Brain merged with DeepMind to form Google DeepMind."
+  },
+  {
+    "id": 4,
+    "type": "multi-hop",
+    "hops": ["meta_ai", "mistral_ai"],
+    "chain": "FAIR/Meta AI released PyTorch 2017 → Lample & Lacroix (former Meta researchers) co-founded Mistral AI 2023",
+    "question": "The AI research division originally named FAIR released an open-source ML framework in 2017. Two researchers who had worked at that division, Lample and Lacroix, later co-founded a French AI startup in April 2023. What is the name of that French startup?",
+    "answer": "Mistral AI. FAIR (later renamed Meta AI) released PyTorch in 2017. Guillaume Lample and Timothée Lacroix, former Meta Platforms researchers, co-founded Mistral AI in April 2023."
+  },
+  {
+    "id": 5,
+    "type": "multi-hop",
+    "hops": ["inflection_ai", "google_deepmind"],
+    "chain": "Inflection AI co-founder Suleyman → previously co-founded DeepMind 2010 → DeepMind merged with Google Brain April 2023",
+    "question": "A co-founder of Inflection AI had, over a decade earlier, co-founded a British AI lab with Demis Hassabis and Shane Legg. That British lab was later acquired by Google and merged with Google Brain. What year did this merger with Google Brain occur?",
+    "answer": "2023. Mustafa Suleyman co-founded both Inflection AI and DeepMind (2010). DeepMind was acquired by Google in 2014 and merged with Google Brain in April 2023 to become Google DeepMind."
+  },
+  {
+    "id": 6,
+    "type": "multi-hop",
+    "hops": ["openai", "anthropic"],
+    "chain": "Jan Leike co-led OpenAI alignment team → departed OpenAI 2024 citing safety concerns → Anthropic hired Jan Leike 2024 → Anthropic's flagship product is Claude",
+    "question": "Jan Leike co-led the alignment team at a major AI organization before departing in 2024, citing the company's deprioritization of safety goals. He was subsequently hired by a competing AI safety-focused company. What is the name of the flagship product line of that competing company?",
+    "answer": "Claude. Jan Leike departed OpenAI and was hired by Anthropic in 2024. Anthropic's flagship product line is the Claude series of large language models."
+  },
+  {
+    "id": 7,
+    "type": "multi-hop",
+    "hops": ["xai", "openai"],
+    "chain": "xAI founded by Elon Musk 2023 → Musk co-founded & resigned from OpenAI board 2018 → OpenAI's $10B Microsoft deal 2023",
+    "question": "xAI was founded in 2023 by someone who had previously co-founded and later resigned from the board of a nonprofit AI organization in 2018. That nonprofit later received an additional $10 billion investment from a tech company in January 2023. Which tech company made that $10 billion investment?",
+    "answer": "Microsoft. xAI was founded by Elon Musk, who resigned from OpenAI's board in 2018. In January 2023, Microsoft announced an additional $10 billion investment in OpenAI."
+  },
+  {
+    "id": 8,
+    "type": "multi-hop",
+    "hops": ["stability_ai", "openai", "anthropic"],
+    "chain": "Stable Diffusion → Stability AI → competing DALL-E → OpenAI → Jan Leike departed 2024 → Anthropic hired Jan Leike",
+    "question": "Stability AI is known for Stable Diffusion. A competing text-to-image series called DALL-E was developed by a different organization. In 2024, a key AI safety researcher departed that DALL-E organization, citing safety concerns, and was hired by a different AI safety company. Name that AI safety company.",
+    "answer": "Anthropic. Stability AI made Stable Diffusion; OpenAI made DALL-E. Jan Leike departed OpenAI in 2024 and was then hired by Anthropic, which explicitly focuses on AI safety."
+  },
+  {
+    "id": 9,
+    "type": "multi-hop",
+    "hops": ["hugging_face", "meta_ai"],
+    "chain": "Hugging Face + Meta + UNESCO launched language translator Sep 2024 → Meta AI (formerly FAIR) released PyTorch 2017",
+    "question": "In September 2024, Hugging Face partnered with a social media company and UNESCO to launch a multilingual translation tool. That same social media company's AI research division had released an open-source ML framework in 2017 that became foundational to AI development. Name that ML framework.",
+    "answer": "PyTorch. Hugging Face partnered with Meta and UNESCO for the language translator in September 2024. Meta AI (originally FAIR) released PyTorch in 2017."
+  },
+  {
+    "id": 10,
+    "type": "multi-hop",
+    "hops": ["openai", "anthropic"],
+    "chain": "John Schulman co-founded OpenAI → left OpenAI August 2024 → joined Anthropic → Anthropic's Amazon investment deal ($8B total by Nov 2024)",
+    "question": "OpenAI co-founder John Schulman left OpenAI in August 2024 to join a competing AI company. That company uses Amazon Web Services as its primary cloud provider as part of an investment deal. Approximately how much had Amazon invested in total in that company by November 2024?",
+    "answer": "$8 billion. John Schulman left OpenAI to join Anthropic. Amazon initially invested $1.25 billion (September 2023), then the remaining $2.75 billion (March 2024), and another $4 billion (November 2024), totaling $8 billion in Anthropic."
+  },
+  {
+    "id": 11,
+    "type": "multi-hop",
+    "hops": ["openai", "anthropic"],
+    "chain": "Dario Amodei (OpenAI VP of Research) → departed to co-found Anthropic 2021 → Anthropic operates as a Public Benefit Corporation",
+    "question": "OpenAI's Vice President of Research departed the organization along with several colleagues in 2021 to co-found a new AI company focused on safety. That new company operates as which type of corporate entity — a structure that OpenAI's own for-profit branch also adopted in October 2025?",
+    "answer": "Public Benefit Corporation (PBC). Dario Amodei, OpenAI's VP of Research, co-founded Anthropic in 2021. Anthropic operates as a public benefit corporation. OpenAI's for-profit subsidiary was also converted into a PBC in October 2025."
+  },
+  {
+    "id": 12,
+    "type": "multi-hop",
+    "hops": ["mistral_ai", "google_deepmind"],
+    "chain": "Arthur Mensch (Mistral AI co-founder) → formerly at Google DeepMind → DeepMind originally acquired by Google in 2014",
+    "question": "Arthur Mensch, a co-founder of a French AI company established in April 2023, was previously an employee of an organization formed by a merger between DeepMind and Google Brain. What year was the original DeepMind lab acquired by Google, before that merger took place?",
+    "answer": "2014. Arthur Mensch co-founded Mistral AI and was formerly at Google DeepMind. DeepMind was originally acquired by Google in January 2014, and it merged with Google Brain in April 2023 to become Google DeepMind."
+  },
+  {
+    "id": 13,
+    "type": "multi-hop",
+    "hops": ["inflection_ai", "openai"],
+    "chain": "Suleyman left Inflection AI → started Microsoft AI → Microsoft paid $650M to license Inflection tech → Microsoft previously moved OpenAI services to Azure",
+    "question": "When Mustafa Suleyman left Inflection AI, he went on to start a new AI division at a major tech company, which also paid $650 million to license Inflection AI's technology. That same tech company had previously migrated another AI research organization's services to its cloud platform after a $1 billion investment. Name that AI research organization.",
+    "answer": "OpenAI. Suleyman left Inflection AI to start Microsoft AI. Microsoft licensed Inflection's technology and had previously invested $1 billion in OpenAI in 2019 and migrated OpenAI's services to Microsoft Azure."
+  },
+  {
+    "id": 14,
+    "type": "multi-hop",
+    "hops": ["cohere", "google_deepmind"],
+    "chain": "Aidan Gomez co-authored Transformer paper at Google Brain 2017 → Google Brain merged with DeepMind April 2023 → merged organization develops Gemini LLM family",
+    "question": "Aidan Gomez co-authored the Transformer architecture paper at a Google research division in 2017 and later founded an enterprise LLM company. In April 2023, that Google research division merged with DeepMind. What is the name of the large language model family developed by the resulting merged organization?",
+    "answer": "Gemini. Aidan Gomez was at Google Brain, which merged with DeepMind in April 2023 to form Google DeepMind. Google DeepMind develops the Gemini family of large language models."
+  },
+  {
+    "id": 15,
+    "type": "multi-hop",
+    "hops": ["xai", "google_deepmind"],
+    "chain": "Igor Babuschkin (xAI chief engineer) → formerly at Google DeepMind → DeepMind's AlphaGo defeated Lee Sedol in March 2016",
+    "question": "Igor Babuschkin joined xAI as chief engineer after leaving an AI lab known for the AlphaGo program. AlphaGo famously defeated a 9-dan professional Go player in a five-game match in March 2016. What was the name of that professional Go player?",
+    "answer": "Lee Sedol. Igor Babuschkin came from Google DeepMind. DeepMind's AlphaGo defeated Lee Sedol, a 9-dan professional player, with a score of 4 to 1 in March 2016."
+  },
+  {
+    "id": 16,
+    "type": "multi-hop",
+    "hops": ["anthropic", "openai"],
+    "chain": "Anthropic's CEO was VP of Research at OpenAI → OpenAI released ChatGPT November 2022 → ChatGPT catalyzed the generative AI boom",
+    "question": "The CEO of an AI safety company previously served as Vice President of Research at the organization that released ChatGPT in November 2022, before leaving to co-found that safety company in 2021. What is the name of that CEO's AI safety company?",
+    "answer": "Anthropic. Dario Amodei was OpenAI's VP of Research before co-founding Anthropic in 2021. OpenAI released ChatGPT in November 2022."
+  },
+  {
+    "id": 17,
+    "type": "multi-hop",
+    "hops": ["hugging_face", "meta_ai", "mistral_ai"],
+    "chain": "Hugging Face (NYC) collaborated with Meta on translator 2024 → Meta AI = former FAIR → FAIR researchers (Lample, Lacroix) co-founded Mistral AI (Paris)",
+    "question": "Hugging Face, based in New York City, collaborated with a social media giant's AI division on a translation tool in 2024. Former researchers from that same AI division co-founded an open-weight LLM company headquartered in Paris. Name that Paris-based company.",
+    "answer": "Mistral AI. Hugging Face collaborated with Meta AI on the translation tool. Mistral AI was co-founded in Paris by Guillaume Lample and Timothée Lacroix, who are former Meta Platforms researchers."
+  },
+  {
+    "id": 18,
+    "type": "multi-hop",
+    "hops": ["google_deepmind", "anthropic"],
+    "chain": "DeepMind (British AI lab, founded 2010) → acquired by Google 2014 → Google invested $500M in Anthropic Oct 2023 → Anthropic's flagship product is Claude",
+    "question": "Demis Hassabis and two others co-founded a British AI lab in 2010, which was acquired by Google in 2014. Google later invested $500 million in October 2023 in an AI safety startup. What AI assistant product is that safety startup's flagship offering?",
+    "answer": "Claude. Google acquired DeepMind in 2014, which was co-founded by Hassabis, Legg, and Suleyman. Google invested $500 million in Anthropic in October 2023. Anthropic's flagship product is the Claude series of large language models."
+  },
+  {
+    "id": 19,
+    "type": "multi-hop",
+    "hops": ["inflection_ai", "xai", "openai"],
+    "chain": "Inflection AI (PBC, still active) + xAI (was PBC, dropped May 2024) + OpenAI (converted subsidiary to PBC Oct 2025) — aggregation across 3 docs",
+    "question": "Among all companies in this corpus, three have been explicitly associated with public benefit corporation (PBC) status. One company was founded as a PBC but dropped the status by May 2024. Another converted its for-profit subsidiary to a PBC in October 2025. A third remains currently structured as a PBC. Name all three companies.",
+    "answer": "xAI (initially incorporated as a PBC, dropped the status by May 2024), OpenAI (converted its for-profit subsidiary to a PBC in October 2025), and Inflection AI (currently structured as a public benefit corporation)."
+  },
+  {
+    "id": 20,
+    "type": "multi-hop",
+    "hops": ["meta_ai", "mistral_ai", "google_deepmind"],
+    "chain": "Mistral AI co-founders: Arthur Mensch (from Google DeepMind) + Lample & Lacroix (from Meta AI/FAIR) → Meta AI originally founded as FAIR 2013",
+    "question": "Mistral AI was co-founded by three researchers: one from Google DeepMind and two from a social media company's AI division. That social media company's AI division was originally founded in 2013 under a different name. What was the original name of that AI division?",
+    "answer": "FAIR (Facebook Artificial Intelligence Research). Mistral AI's co-founders Lample and Lacroix are former Meta Platforms researchers. Meta AI was originally founded in 2013 as Facebook Artificial Intelligence Research (FAIR), before being renamed following Facebook's rebranding to Meta Platforms."
+  }
+]

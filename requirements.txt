@@ -1,0 +1,9 @@
+openai>=1.30
+neo4j>=5.19
+chromadb>=0.5
+wikipedia
+python-dotenv>=1.0
+tiktoken>=0.7
+pandas>=2.2
+numpy
+networkx>=3.3

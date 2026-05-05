@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "multi-hop",
+    "question": "Which AI company was founded by former OpenAI members and later received major investments from both Amazon and Google?",
+    "answer": "Anthropic was founded by former OpenAI members and later received major investments from Amazon and Google."
+  },
+  {
+    "id": 6,
+    "type": "multi-hop",
+    "question": "Which companies in this corpus explicitly mention founders or early leaders with Google DeepMind ties?",
+    "answer": "Mistral AI (Arthur Mensch), xAI (Igor Babuschkin), and Inflection AI (Mustafa Suleyman) have explicit Google DeepMind ties."
+  },
+  {
+    "id": 5,
+    "type": "multi-hop",
+    "question": "Which company invested heavily in OpenAI and also acquired most of Inflection AI's workforce through an acqui-hire?",
+    "answer": "Microsoft invested heavily in OpenAI and acqui-hired most of Inflection AI's workforce."
+  },
+  {
+    "id": 12,
+    "type": "multi-hop",
+    "question": "Which company founded by Elon Musk competes in generative AI alongside OpenAI, where Musk previously held a board role?",
+    "answer": "xAI was founded by Elon Musk and competes alongside OpenAI, where Musk previously held a board role."
+  },
+  {
+    "id": 20,
+    "type": "multi-hop",
+    "question": "Which company was formed by merging two AI research groups and how does that compare to Anthropic's origin from a team departure?",
+    "answer": "Google DeepMind was formed by merging DeepMind and Google Brain, while Anthropic originated from former OpenAI team members leaving to start a new company."
+  }
+]

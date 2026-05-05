@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "type": "multi-hop",
+    "question": "Which AI company was founded by former OpenAI members and later received major investments from both Amazon and Google?",
+    "answer": "Anthropic was founded by former OpenAI members and later received major investments from Amazon and Google."
+  },
+  {
+    "id": 2,
+    "type": "multi-hop",
+    "question": "Which person co-founded Inflection AI and then left to start Microsoft AI, while also having a prior leadership role at DeepMind?",
+    "answer": "Mustafa Suleyman co-founded Inflection AI, later left to start Microsoft AI, and previously led DeepMind."
+  },
+  {
+    "id": 3,
+    "type": "multi-hop",
+    "question": "Which founder links Cohere to Google's Transformer breakthrough work?",
+    "answer": "Aidan Gomez co-founded Cohere and was a co-author of the Transformer paper at Google Brain."
+  },
+  {
+    "id": 4,
+    "type": "multi-hop",
+    "question": "Which company developed Claude, and which major model family was developed by OpenAI?",
+    "answer": "Anthropic developed Claude, and OpenAI developed the GPT family of large language models."
+  },
+  {
+    "id": 5,
+    "type": "multi-hop",
+    "question": "Which company invested heavily in OpenAI and also acquired most of Inflection AI's workforce through an acqui-hire?",
+    "answer": "Microsoft invested heavily in OpenAI and acqui-hired most of Inflection AI's workforce."
+  },
+  {
+    "id": 6,
+    "type": "multi-hop",
+    "question": "Which companies in this corpus explicitly mention founders or early leaders with Google DeepMind ties?",
+    "answer": "Mistral AI (Arthur Mensch), xAI (Igor Babuschkin), and Inflection AI (Mustafa Suleyman) have explicit Google DeepMind ties."
+  },
+  {
+    "id": 7,
+    "type": "multi-hop",
+    "question": "Which company received major investment from Amazon, and which company announced a partnership with Amazon Web Services?",
+    "answer": "Anthropic received a major investment from Amazon, and Hugging Face announced a partnership with Amazon Web Services."
+  },
+  {
+    "id": 8,
+    "type": "multi-hop",
+    "question": "Which company was acquired by Google in 2014, and which different company founded in 2022 created the Pi assistant?",
+    "answer": "DeepMind was acquired by Google in 2014, and Inflection AI, founded in 2022, created Pi."
+  },
+  {
+    "id": 9,
+    "type": "multi-hop",
+    "question": "Which company is known for Stable Diffusion, and which separate organization in the corpus is known for the DALL-E text-to-image series?",
+    "answer": "Stability AI is known for Stable Diffusion, while OpenAI is known for the DALL-E text-to-image series."
+  },
+  {
+    "id": 10,
+    "type": "multi-hop",
+    "question": "Which organization was founded as FAIR inside Facebook and released PyTorch, and which French AI company was founded by former Meta researchers?",
+    "answer": "Meta AI (formerly FAIR) released PyTorch, and Mistral AI was founded by former Meta researchers."
+  },
+  {
+    "id": 11,
+    "type": "multi-hop",
+    "question": "Which company in the corpus explicitly focuses on AI safety and built Claude, and which company built the Pi personal assistant?",
+    "answer": "Anthropic explicitly focuses on AI safety and built Claude, while Inflection AI built the Pi personal assistant."
+  },
+  {
+    "id": 12,
+    "type": "multi-hop",
+    "question": "Which company founded by Elon Musk competes in generative AI alongside OpenAI, where Musk previously held a board role?",
+    "answer": "xAI was founded by Elon Musk and competes alongside OpenAI, where Musk previously held a board role."
+  },
+  {
+    "id": 13,
+    "type": "multi-hop",
+    "question": "Which company built Pi and licensed its technology to Microsoft, and which company had already received large Microsoft investment and Azure support?",
+    "answer": "Inflection AI built Pi and licensed its technology to Microsoft, while OpenAI had already received large Microsoft investment and Azure support."
+  },
+  {
+    "id": 14,
+    "type": "multi-hop",
+    "question": "Which company was founded by former Google Brain-linked researchers for enterprise LLMs, and which company in the corpus was founded by former OpenAI members for AI safety?",
+    "answer": "Cohere was founded by former Google Brain-linked researchers, and Anthropic was founded by former OpenAI members."
+  },
+  {
+    "id": 15,
+    "type": "multi-hop",
+    "question": "Which tech giant is tied to OpenAI through investment and Azure, and which tech giant is tied to Anthropic through major investment?",
+    "answer": "Microsoft is tied to OpenAI through investment and Azure, while both Amazon and Google are tied to Anthropic through major investment."
+  },
+  {
+    "id": 16,
+    "type": "multi-hop",
+    "question": "Which company evolved from a teen chatbot startup into an open ML platform, and which separate organization collaborated with it on a language translator initiative in 2024?",
+    "answer": "Hugging Face evolved from a teen chatbot startup into an open ML platform, and Meta collaborated with it on a language translator initiative in 2024."
+  },
+  {
+    "id": 17,
+    "type": "multi-hop",
+    "question": "Which two companies in this corpus are headquartered in Paris and New York City respectively, and both are central in open or open-weight model ecosystems?",
+    "answer": "Mistral AI is headquartered in Paris and Hugging Face is based in New York City; both are central in open or open-weight model ecosystems."
+  },
+  {
+    "id": 18,
+    "type": "multi-hop",
+    "question": "Which organization rebranded from FAIR and released PyTorch, and which organization was acquired by Google and later merged with Google Brain?",
+    "answer": "Meta AI rebranded from FAIR and released PyTorch, while DeepMind was acquired by Google and later merged with Google Brain."
+  },
+  {
+    "id": 19,
+    "type": "multi-hop",
+    "question": "Which two companies in the corpus are explicitly described as public benefit corporations in their organizational history or structure?",
+    "answer": "Inflection AI is described as a public benefit corporation, and OpenAI's for-profit subsidiary was converted into a public benefit corporation."
+  },
+  {
+    "id": 20,
+    "type": "multi-hop",
+    "question": "Which company was formed by merging two AI research groups and how does that compare to Anthropic's origin from a team departure?",
+    "answer": "Google DeepMind was formed by merging DeepMind and Google Brain, while Anthropic originated from former OpenAI team members leaving to start a new company."
+  }
+]
