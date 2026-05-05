@@ -1,0 +1,65 @@
+{
+  "total_tokens": 32675,
+  "per_company": {
+    "OpenAI": {
+      "raw": 69,
+      "unique": 68,
+      "tokens": 4303,
+      "cost_usd": 0.000645
+    },
+    "Anthropic (company)": {
+      "raw": 61,
+      "unique": 59,
+      "tokens": 4056,
+      "cost_usd": 0.000608
+    },
+    "Google DeepMind": {
+      "raw": 63,
+      "unique": 62,
+      "tokens": 4087,
+      "cost_usd": 0.000613
+    },
+    "Meta AI": {
+      "raw": 43,
+      "unique": 43,
+      "tokens": 2545,
+      "cost_usd": 0.000382
+    },
+    "xAI (company)": {
+      "raw": 62,
+      "unique": 59,
+      "tokens": 4105,
+      "cost_usd": 0.000616
+    },
+    "Mistral AI": {
+      "raw": 45,
+      "unique": 44,
+      "tokens": 3562,
+      "cost_usd": 0.000534
+    },
+    "Cohere (company)": {
+      "raw": 66,
+      "unique": 66,
+      "tokens": 4290,
+      "cost_usd": 0.000643
+    },
+    "Inflection AI": {
+      "raw": 20,
+      "unique": 20,
+      "tokens": 1249,
+      "cost_usd": 0.000187
+    },
+    "Stability AI": {
+      "raw": 35,
+      "unique": 35,
+      "tokens": 2371,
+      "cost_usd": 0.000356
+    },
+    "Hugging Face": {
+      "raw": 31,
+      "unique": 28,
+      "tokens": 2107,
+      "cost_usd": 0.000316
+    }
+  }
+}

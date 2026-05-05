@@ -1,0 +1,2906 @@
+[
+  {
+    "subject": "OpenAI Global, LLC",
+    "predicate": "LOCATED_IN",
+    "object": "San Francisco",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "DEVELOPED",
+    "object": "GPT family of large language models",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "DEVELOPED",
+    "object": "DALL-E series of text-to-image models",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "DEVELOPED",
+    "object": "Sora series of text-to-video models",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "RELEASED",
+    "object": "ChatGPT",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Elon Musk",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Sam Altman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Ilya Sutskever",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Greg Brockman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Trevor Blackwell",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Vicki Cheung",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Andrej Karpathy",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Durk Kingma",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "John Schulman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Pamela Vagata",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FOUNDED_BY",
+    "object": "Wojciech Zaremba",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Elon Musk",
+    "predicate": "PART_OF",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Sam Altman",
+    "predicate": "PART_OF",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Elon Musk",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Sam Altman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Greg Brockman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Reid Hoffman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Jessica Livingston",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Peter Thiel",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Amazon Web Services (AWS)",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "Infosys",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "Elon Musk",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "Sam Altman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "Wojciech Zaremba",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "LOCATED_IN",
+    "object": "Pioneer Building, Mission District, San Francisco",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "PART_OF",
+    "object": "artificial general intelligence (AGI)",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "RELEASED",
+    "object": "OpenAI Gym",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Brockman",
+    "predicate": "EMPLOYEE_OF",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Brockman",
+    "predicate": "JOINED",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Yoshua Bengio",
+    "predicate": "PARTNERED_WITH",
+    "object": "Brockman",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "$133.2 million",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "FUNDED_BY",
+    "object": "$7 million",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "COMPETES_WITH",
+    "object": "Facebook",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "COMPETES_WITH",
+    "object": "Google",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "LEFT_FOR",
+    "object": "Google employee",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "PART_OF",
+    "object": "AI safety",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "PART_OF",
+    "object": "existential risk",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "PART_OF",
+    "object": "deep learning",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "EXPECTED_TO",
+    "object": "surpass human intelligence",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "HAD",
+    "object": "nine AI researchers",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "HAD",
+    "object": "first 52 employees",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "HAD",
+    "object": "decades-long project",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "HAD",
+    "object": "strong group of people",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Gym",
+    "predicate": "PART_OF",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Nvidia",
+    "predicate": "GIFTED",
+    "object": "DGX-1 supercomputer",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "DGX-1 supercomputer",
+    "predicate": "LOCATED_IN",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "RELEASED",
+    "object": "Universe",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Universe",
+    "predicate": "PART_OF",
+    "object": "OpenAI",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "TRANSITIONED_FROM",
+    "object": "nonprofit",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "OpenAI LP",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "OpenAI GP LLC",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "CREATED_BY",
+    "object": "OpenAI Global, LLC",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI LP",
+    "predicate": "OWNED_BY",
+    "object": "OpenAI, Inc.",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Global, LLC",
+    "predicate": "OWNED_BY",
+    "object": "OpenAI LP",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI Global, LLC",
+    "predicate": "OWNED_BY",
+    "object": "Microsoft",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "INVESTED_IN",
+    "object": "OpenAI LP",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "MIGRATED_TO",
+    "object": "Microsoft Azure",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI, Inc.",
+    "predicate": "CONTROLLED",
+    "object": "OpenAI GP LLC",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI GP LLC",
+    "predicate": "CONTROLLED",
+    "object": "OpenAI LP",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI LP",
+    "predicate": "CONTROLLED",
+    "object": "OpenAI Global, LLC",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI, Inc.",
+    "predicate": "HAS",
+    "object": "fiduciary responsibility",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI, Inc.",
+    "predicate": "BARRED_FROM",
+    "object": "financial stakes in OpenAI LP",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "OpenAI",
+    "predicate": "ARGUED_BY",
+    "object": "some researchers",
+    "source": "OpenAI"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "LOCATED_IN",
+    "object": "San Francisco",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "DEVELOPED",
+    "object": "Claude",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FOUNDED_BY",
+    "object": "Daniela Amodei",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FOUNDED_BY",
+    "object": "Dario Amodei",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FOUNDED_BY",
+    "object": "OpenAI",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Dario Amodei",
+    "predicate": "POSITION_HELD",
+    "object": "CEO",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Dario Amodei",
+    "predicate": "POSITION_HELD",
+    "object": "Vice President of Research",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "RELEASED",
+    "object": "Claude",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude",
+    "predicate": "RELEASED",
+    "object": "March 2023",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Jan Leike",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "EMPLOYEE_OF",
+    "object": "John Schulman",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "RELEASED",
+    "object": "Claude 4",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "DEVELOPED",
+    "object": "Model Context Protocol (MCP) connector",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "PARTNERED_WITH",
+    "object": "Google",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "INVESTED_IN",
+    "object": "Nvidia",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "INVESTED_IN",
+    "object": "Microsoft",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FUNDED_BY",
+    "object": "Nvidia",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FUNDED_BY",
+    "object": "Microsoft",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude",
+    "predicate": "PART_OF",
+    "object": "Claude Code",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude Code",
+    "predicate": "POSITION_HELD",
+    "object": "coding assistant",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "ACQUIRED",
+    "object": "computing capacity from Microsoft Azure",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Chinese government",
+    "predicate": "LEFT_FOR",
+    "object": "hackers",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "hackers",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Claude",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "ACQUIRED",
+    "object": "Bun",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "PARTNERED_WITH",
+    "object": "Snowflake Inc.",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "CREATED_BY",
+    "object": "Amodei siblings",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "POSITION_HELD",
+    "object": "Dario Amodei",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "POSITION_HELD",
+    "object": "Daniela Amodei",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "POSITION_HELD",
+    "object": "Amanda Askell",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "JOINED",
+    "object": "Mike Krieger",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "LAUNCHED",
+    "object": "Anthropic Institute",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic Institute",
+    "predicate": "LED_BY",
+    "object": "Jack Clark",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "LOCATED_IN",
+    "object": "United States",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "FUNDED_BY",
+    "object": "Long-Term Benefit Trust",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Long-Term Benefit Trust",
+    "predicate": "MEMBER",
+    "object": "Neil Buddy Shah",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Long-Term Benefit Trust",
+    "predicate": "MEMBER",
+    "object": "Mariano-Florentino Cuéllar",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Long-Term Benefit Trust",
+    "predicate": "MEMBER",
+    "object": "Richard Fontaine",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "REFUSED",
+    "object": "United States Department of Defense",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Anthropic",
+    "predicate": "COMPETES_WITH",
+    "object": "OpenAI",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Daniela Amodei",
+    "predicate": "POSITION_HELD",
+    "object": "president",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Amanda Askell",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Nicholas Carlini",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Jack Clark",
+    "predicate": "POSITION_HELD",
+    "object": "head of policy",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Jared Kaplan",
+    "predicate": "POSITION_HELD",
+    "object": "chief science officer",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Mike Krieger",
+    "predicate": "POSITION_HELD",
+    "object": "Chief Product Officer",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Jan Leike",
+    "predicate": "POSITION_HELD",
+    "object": "co-lead of the Alignment Science team",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Chris Olah",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude",
+    "predicate": "DEVELOPED",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude Code",
+    "predicate": "DEVELOPED",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Cowork",
+    "predicate": "DEVELOPED",
+    "object": "Anthropic",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude Instant",
+    "predicate": "RELEASED",
+    "object": "March 2023",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 2",
+    "predicate": "RELEASED",
+    "object": "July 2023",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 3 Opus",
+    "predicate": "RELEASED",
+    "object": "March 2024",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 3 Sonnet",
+    "predicate": "RELEASED",
+    "object": "March 2024",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 3 Haiku",
+    "predicate": "RELEASED",
+    "object": "March 2024",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 3.5 Sonnet",
+    "predicate": "RELEASED",
+    "object": "June 2024",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude 4 Opus",
+    "predicate": "RELEASED",
+    "object": "May 2025",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude Sonnet",
+    "predicate": "RELEASED",
+    "object": "May 2025",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "Claude Opus 4.6",
+    "predicate": "RELEASED",
+    "object": "February 2026",
+    "source": "Anthropic (company)"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "FOUNDED_BY",
+    "object": "Demis Hassabis",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "FOUNDED_BY",
+    "object": "Shane Legg",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "FOUNDED_BY",
+    "object": "Mustafa Suleyman",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "ACQUIRED",
+    "object": "Google",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "MERGED_WITH",
+    "object": "Google AI's Google Brain division",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "REBRANDED_TO",
+    "object": "Google DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "LOCATED_IN",
+    "object": "London",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Technologies Limited",
+    "predicate": "PART_OF",
+    "object": "Alphabet Inc.",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaGo",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "AlphaGo",
+    "predicate": "COMPETES_WITH",
+    "object": "Lee Sedol",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaZero",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaFold",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "AlphaFold",
+    "predicate": "RELEASED",
+    "object": "AlphaFold database",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "Gemini",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "Imagen",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "Veo",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "Lyria",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "MuZero",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaStar",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaGeometry",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaEvolve",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaDev",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "AlphaTensor",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Horizons Ventures",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Founders Fund",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Scott Banister",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Peter Thiel",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Elon Musk",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Jaan Tallinn",
+    "predicate": "INVESTED_IN",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Google",
+    "predicate": "ACQUIRED",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "REBRANDED_TO",
+    "object": "Google DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "PARTNERED_WITH",
+    "object": "Royal Free NHS Trust",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "Streams",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "CREATED_BY",
+    "object": "Suleyman",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Suleyman",
+    "predicate": "LEFT_FOR",
+    "object": "Google",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "MERGED_WITH",
+    "object": "Google Brain",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Google DeepMind",
+    "predicate": "PART_OF",
+    "object": "Google",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind Ethics and Society",
+    "predicate": "PART_OF",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Nick Bostrom",
+    "predicate": "ADVISOR_TO",
+    "object": "DeepMind Ethics and Society",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "LAUNCHED",
+    "object": "AI ethics research team",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "RECEIVED",
+    "object": "Company of the Year award",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Cambridge Computer Laboratory",
+    "predicate": "GAVE_AWARD_TO",
+    "object": "DeepMind",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "PART_OF",
+    "object": "Google",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "AlphaGo",
+    "predicate": "BEAT",
+    "object": "Fan Hui",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "RELEASED",
+    "object": "Agent57",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "DEVELOPED",
+    "object": "DeepNash",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "COMPETES_WITH",
+    "object": "OpenAI",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "PUBLISHED",
+    "object": "over a thousand papers",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "PUBLISHED",
+    "object": "thirteen papers",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "MENTIONED_IN",
+    "object": "1842 published news stories",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "MENTIONED_IN",
+    "object": "1363 published news stories",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "USED",
+    "object": "reinforcement learning",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "USED",
+    "object": "deep Q-learning",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "TESTED_ON",
+    "object": "video games",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "APPLIED_TO",
+    "object": "video games made in the 1970s and 1980s",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "WORKING_ON",
+    "object": "complex 3D games",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "SURPASSED",
+    "object": "human abilities",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "ACQUIRED",
+    "object": "Google",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "TRAINED",
+    "object": "Quake III Arena",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "PUBLISHED",
+    "object": "research on an AI system",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "SURPASSED",
+    "object": "state of the art performance",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "DeepMind",
+    "predicate": "USED",
+    "object": "convolutional neural network",
+    "source": "Google DeepMind"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "PART_OF",
+    "object": "Meta",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "DEVELOPED",
+    "object": "artificial intelligence and augmented reality technologies",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "FOUNDED_BY",
+    "object": "Facebook",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "FOUNDED_BY",
+    "object": "2013",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Menlo Park",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "London",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "New York City",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Paris",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Seattle",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Pittsburgh",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Tel Aviv",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "LOCATED_IN",
+    "object": "Montreal",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "Google",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "Amazon",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "IBM",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "Microsoft",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "CREATED_BY",
+    "object": "Partnership on Artificial Intelligence to Benefit People and Society",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Yann LeCun",
+    "predicate": "POSITION_HELD",
+    "object": "Director of Meta AI",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Jérôme Pesenti",
+    "predicate": "JOINED",
+    "object": "Meta AI",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Jérôme Pesenti",
+    "predicate": "POSITION_HELD",
+    "object": "Director of Meta AI",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Jérôme Pesenti",
+    "predicate": "EMPLOYEE_OF",
+    "object": "IBM",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "REBRANDED_TO",
+    "object": "Meta AI",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "RELEASED",
+    "object": "Torch deep-learning modules",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "RELEASED",
+    "object": "PyTorch",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "PyTorch",
+    "predicate": "USED_IN",
+    "object": "Tesla's autopilot",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "PyTorch",
+    "predicate": "USED_IN",
+    "object": "Uber's Pyro",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta AI",
+    "predicate": "DEVELOPED",
+    "object": "virtual assistant",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "virtual assistant",
+    "predicate": "INTEGRATED_INTO",
+    "object": "Meta's social networking products",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "virtual assistant",
+    "predicate": "AVAILABLE_AS",
+    "object": "subscription-based stand-alone app",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta",
+    "predicate": "DEVELOPED",
+    "object": "Galactica",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Galactica",
+    "predicate": "RELEASED",
+    "object": "15 November 2022",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Galactica",
+    "predicate": "WITHDRAWN",
+    "object": "15 November 2022",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Llama",
+    "predicate": "RELEASED",
+    "object": "February 2023",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Llama",
+    "predicate": "PART_OF",
+    "object": "Llama 4",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta",
+    "predicate": "USED",
+    "object": "CPUs",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta",
+    "predicate": "SWITCHED_TO",
+    "object": "Nvidia GPUs",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "MTIA v1",
+    "predicate": "DESIGNED_FOR",
+    "object": "content recommendation algorithms",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "MTIA v1",
+    "predicate": "FABRICATED_ON",
+    "object": "TSMC's 7 nm process technology",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "MTIA v1",
+    "predicate": "CONSUMED",
+    "object": "25W",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "MTIA v1",
+    "predicate": "CAPABLE_OF",
+    "object": "51.2 TFlops FP16",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Facebook",
+    "predicate": "PART_OF",
+    "object": "Meta",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Mediapart",
+    "predicate": "REPORTED",
+    "object": "2022",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "Meta",
+    "predicate": "ILLEGALLY_USED",
+    "object": "works from LibGen",
+    "source": "Meta AI"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "FOUNDED_BY",
+    "object": "Elon Musk",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "LOCATED_IN",
+    "object": "San Francisco Bay Area",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "PART_OF",
+    "object": "SpaceX",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "CREATED_BY",
+    "object": "Elon Musk",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "DEVELOPED",
+    "object": "Grok",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "DEVELOPED",
+    "object": "Grokipedia",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "ACQUIRED",
+    "object": "X",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X",
+    "predicate": "ACQUIRED",
+    "object": "Musk",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Igor Babuschkin",
+    "predicate": "POSITION_HELD",
+    "object": "chief engineer",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "FUNDED_BY",
+    "object": "Fidelity",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "FUNDED_BY",
+    "object": "BlackRock",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "FUNDED_BY",
+    "object": "Sequoia Capital",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "INVESTED_IN",
+    "object": "OpenAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "ACQUIRED",
+    "object": "Hotshot",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "ACQUIRED",
+    "object": "X Corp.",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X Corp.",
+    "predicate": "DEVELOPED",
+    "object": "X",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "X.AI Corp.",
+    "predicate": "REBRANDED_TO",
+    "object": "X.AI Holdings Corp.",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "United States Department of Defense",
+    "predicate": "FUNDED_BY",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "LAID_OFF",
+    "object": "500 data annotation workers",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "FUNDED_BY",
+    "object": "United States Department of Defense",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "DEVELOPED",
+    "object": "Grok",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "PURCHASED",
+    "object": "third building",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "LOCATED_IN",
+    "object": "December 30, 2025",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "EXPANDED",
+    "object": "Colossus",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "SpaceX",
+    "predicate": "ACQUIRED",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "VALUED_AT",
+    "object": "$250 billion",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "SpaceX",
+    "predicate": "VALUED_AT",
+    "object": "$1 trillion",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "PART_OF",
+    "object": "SpaceX",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Guodong Zhang",
+    "predicate": "LEFT_FOR",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Zihang Dai",
+    "predicate": "LEFT_FOR",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Musk",
+    "predicate": "REMAINING_CO_FOUNDERS",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Ross Nordeen",
+    "predicate": "LEFT_FOR",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Anthony Armstrong",
+    "predicate": "POSITION_HELD",
+    "object": "Chief Financial Officer",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Michael Nicolls",
+    "predicate": "JOINED",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Anysphere",
+    "predicate": "PARTNERED_WITH",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "PLANNING_ON",
+    "object": "building Colossus",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Colossus",
+    "predicate": "LOCATED_IN",
+    "object": "Memphis, Tennessee",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "DEPLOYED",
+    "object": "14 VoltaGrid portable methane-gas powered generators",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Grok",
+    "predicate": "RELEASED",
+    "object": "Grok-1",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "JOINED",
+    "object": "X",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "LOCATED_IN",
+    "object": "southern Memphis",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "FUNDED_BY",
+    "object": "Shelby County Health Department",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "ACQUIRED",
+    "object": "air permit",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Musk",
+    "predicate": "CEO_OF",
+    "object": "xAI",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "PART_OF",
+    "object": "data center",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Grok",
+    "predicate": "PART_OF",
+    "object": "X's Premium+ subscribers",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Grok",
+    "predicate": "PART_OF",
+    "object": "X Premium subscribers",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Boxtown",
+    "predicate": "LOCATED_IN",
+    "object": "near the data center",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "NAACP",
+    "predicate": "VOICED_CONCERNS",
+    "object": "pollution impact on Black people",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "INSTALLED",
+    "object": "methane polluting turbines",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "PLANNED",
+    "object": "solar farm",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "solar farm",
+    "predicate": "LOCATED_IN",
+    "object": "near Colossus",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "GENERATED",
+    "object": "150 megawatts of power",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "GENERATED",
+    "object": "30 megawatts of electricity",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "COMPETES_WITH",
+    "object": "Tennessee Valley Authority",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "REPORTED_ON",
+    "object": "May 6, 2025",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "OPERATED",
+    "object": "turbines illegally",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "REPORTED_ON",
+    "object": "November 26, 2025",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "xAI",
+    "predicate": "GRANTED",
+    "object": "air permit",
+    "source": "xAI (company)"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "LOCATED_IN",
+    "object": "Paris",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "FOUNDED_BY",
+    "object": "Arthur Mensch",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "FOUNDED_BY",
+    "object": "Guillaume Lample",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI SAS",
+    "predicate": "FOUNDED_BY",
+    "object": "Timothée Lacroix",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Arthur Mensch",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Google DeepMind",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Guillaume Lample",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Meta Platforms",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Timothée Lacroix",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Meta Platforms",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "open-weight large language models",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "Lightspeed Venture Partners",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "Eric Schmidt",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "Xavier Niel",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "JCDecaux",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "Andreessen Horowitz",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "BNP Paribas",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "FUNDED_BY",
+    "object": "Salesforce",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "INVESTED_IN",
+    "object": "Mistral AI",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "CMA CGM",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "INVESTED_IN",
+    "object": "€100 million",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "IN_TALKS_TO_RAISE",
+    "object": "$1 billion",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "VALUED_AT",
+    "object": "$10 billion",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "SECURED",
+    "object": "€2 billion investment",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "VALUED_AT",
+    "object": "€12 billion",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "ASML",
+    "predicate": "INVESTED_IN",
+    "object": "$1.5 billion",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "ASML",
+    "predicate": "OWNS",
+    "object": "11% of Mistral",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "LOCATED_IN",
+    "object": "Paris",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "LOCATED_IN",
+    "object": "Sweden",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Le Chat",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Le Chat",
+    "predicate": "AVAILABLE_ON",
+    "object": "iOS and Android",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "CREATED_BY",
+    "object": "Black Forest Labs",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral 7B",
+    "predicate": "OUTPERFORMS",
+    "object": "LLaMA 2 13B",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral 7B",
+    "predicate": "ON_PAR_WITH",
+    "object": "LLaMA 34B",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mixtral 8x7B",
+    "predicate": "BEAT",
+    "object": "LLaMA 70B",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mixtral 8x7B",
+    "predicate": "BEAT",
+    "object": "GPT-3.5",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Pro subscription tier",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Pro subscription tier",
+    "predicate": "PRICED_AT",
+    "object": "$14.99 per month",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral",
+    "predicate": "RELEASED",
+    "object": "Mistral Small 3.1",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral",
+    "predicate": "RELEASED",
+    "object": "Mistral Medium 3",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Magistral Small",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Magistral Medium",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Mistral Large 3",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Ministral 3",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Devstral 2",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Mistral AI",
+    "predicate": "RELEASED",
+    "object": "Devstral Small 2",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Devstral Small 2",
+    "predicate": "COMPETES_WITH",
+    "object": "Qwen 3 Coder Flash",
+    "source": "Mistral AI"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Aidan Gomez",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Ivan Zhang",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Nick Frosst",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "Toronto",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "Montreal",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "New York City",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "San Francisco",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "London",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "Paris",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "Seoul",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "ACQUIRED",
+    "object": "Aleph Alpha",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "CREATED_BY",
+    "object": "Aidan Gomez",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "CREATED_BY",
+    "object": "Nick Frosst",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "CREATED_BY",
+    "object": "Ivan Zhang",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Aidan Gomez",
+    "predicate": "POSITION_HELD",
+    "object": "CEO",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Martin Kon",
+    "predicate": "POSITION_HELD",
+    "object": "president and COO",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "PARTNERED_WITH",
+    "object": "Google Cloud",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "DEVELOPED",
+    "object": "Cohere Labs",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Labs",
+    "predicate": "CREATED_BY",
+    "object": "Sara Hooker",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Labs",
+    "predicate": "REBRANDED_TO",
+    "object": "Cohere For AI",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "RELEASED",
+    "object": "multilingual model",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "PART_OF",
+    "object": "voluntary White House commitment",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere Inc.",
+    "predicate": "PART_OF",
+    "object": "Canada's voluntary code of conduct for AI",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "SIGNED",
+    "object": "Canada's voluntary code of conduct for AI",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "ACQUIRED",
+    "object": "Ottogrid",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Ottogrid",
+    "predicate": "LOCATED_IN",
+    "object": "Vancouver",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "OPENED",
+    "object": "New York City",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "EXPANDED_TO",
+    "object": "Montreal",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "EXPANDED_TO",
+    "object": "Paris",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "EXPANDED_TO",
+    "object": "Seoul",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "governments of Canada",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "governments of the United Kingdom",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "HIRED",
+    "object": "Joelle Pineau",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "HIRED",
+    "object": "Francois Chadwick",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Francois Chadwick",
+    "predicate": "POSITION_HELD",
+    "object": "Chief Financial Officer",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "IN_TALKS_TO",
+    "object": "merge with Aleph Alpha",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "DEVELOPED",
+    "object": "Aya Vision",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Aya Vision",
+    "predicate": "CREATED_BY",
+    "object": "Cohere's nonprofit research lab",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Oracle",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "INTEGRATED_INTO",
+    "object": "Oracle Fusion Cloud",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "INTEGRATED_INTO",
+    "object": "Oracle NetSuite",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "INTEGRATED_INTO",
+    "object": "Oracle industry-specific applications",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "COLLABORATED_WITH",
+    "object": "McKinsey",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "DEVELOPED",
+    "object": "Oracle Fusion Cloud",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "DEVELOPED",
+    "object": "Oracle NetSuite",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "McKinsey",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "LivePerson",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Fujitsu",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "INTRODUCED",
+    "object": "North for Banking",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "LG",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "SAP",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Dell Technologies",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Ensemble Health Partners",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Bell Canada",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Thales Group",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "CONTRACTED_WITH",
+    "object": "Hanwha Ocean",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PARTNERED_WITH",
+    "object": "Saab AB",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "PROVIDES",
+    "object": "generative AI solutions for Aston Martin F1",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Index Ventures",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Index Ventures",
+    "predicate": "PARTNER",
+    "object": "Mike Volpi",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Radical Ventures",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Section 32",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Geoffrey Hinton",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Fei-Fei Li",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Pieter Abbeel",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Cohere",
+    "predicate": "FUNDED_BY",
+    "object": "Raquel Urtasun",
+    "source": "Cohere (company)"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Reid Hoffman",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Mustafa Suleyman",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Karén Simonyan",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "2022",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "Palo Alto, California",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "DEVELOPED",
+    "object": "machine learning and generative artificial intelligence hardware and apps",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "PARTNERED_WITH",
+    "object": "Nvidia",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "RAISED",
+    "object": "US$1.3 billion",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "VALUATION",
+    "object": "$4 billion",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Mustafa Suleyman",
+    "predicate": "LEFT_FOR",
+    "object": "Microsoft AI",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Karén Simonyan",
+    "predicate": "LEFT_FOR",
+    "object": "Microsoft AI",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "ACQUIRED",
+    "object": "Inflection AI's 70-person workforce",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Microsoft",
+    "predicate": "PAID",
+    "object": "$650 million",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "LICENSED",
+    "object": "its technology",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "UK's Competition and Markets Authority",
+    "predicate": "LAUNCHED",
+    "object": "a preliminary probe",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "PART_OF",
+    "object": "a merger situation",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "COMPETES_WITH",
+    "object": "ChatGPT",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "ChatGPT",
+    "predicate": "CREATED_BY",
+    "object": "OpenAI",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Inflection AI, Inc.",
+    "predicate": "RELEASED",
+    "object": "Pi",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Pi",
+    "predicate": "INTENDED_FOR",
+    "object": "personal intelligence",
+    "source": "Inflection AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "FOUNDED_BY",
+    "object": "Emad Mostaque",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "FOUNDED_BY",
+    "object": "Cyrus Hodes",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "RELEASED",
+    "object": "Stable Diffusion",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Emad Mostaque",
+    "predicate": "LEFT_FOR",
+    "object": "CEO",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Shan Shan Wong",
+    "predicate": "JOINED",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Christian Laforte",
+    "predicate": "JOINED",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Prem Akkaraju",
+    "predicate": "JOINED",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Prem Akkaraju",
+    "predicate": "POSITION_HELD",
+    "object": "CEO",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Coatue",
+    "predicate": "INVESTED_IN",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Lightspeed Venture Partners",
+    "predicate": "INVESTED_IN",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "O’Shaughnessy Ventures LLC",
+    "predicate": "INVESTED_IN",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Sean Parker",
+    "predicate": "BOARD_MEMBER_OF",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "James Cameron",
+    "predicate": "BOARD_MEMBER_OF",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "PARTNERED_WITH",
+    "object": "Arm",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "DEVELOPED",
+    "object": "Stable Audio Open",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Cyrus Hodes",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Emad Mostaque",
+    "predicate": "EMPLOYEE_OF",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Cyrus Hodes",
+    "predicate": "FILED",
+    "object": "Lawsuit",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Emad Mostaque",
+    "predicate": "ALLEGED_IN",
+    "object": "Lawsuit",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "LOCATED_IN",
+    "object": "UK",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "PART_OF",
+    "object": "Artificial Intelligence Industry",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Hodes",
+    "predicate": "LEFT_FOR",
+    "object": "Stability AI",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Hodes",
+    "predicate": "ACQUIRED",
+    "object": "15% stake",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "RAISED",
+    "object": "$101 million",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "VALUED_AT",
+    "object": "$1 billion",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Hodes",
+    "predicate": "CLAIMED",
+    "object": "Mostaque deceived him",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Mostaque",
+    "predicate": "EMBEZZLED",
+    "object": "company funds",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Mostaque",
+    "predicate": "PURCHASED",
+    "object": "$90,000 diamond ring",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "FACED",
+    "object": "legal challenges from Getty Images",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Getty Images",
+    "predicate": "FILED",
+    "object": "two lawsuits",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "MISUSED",
+    "object": "over 12 million photos",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "DEVELOPED",
+    "object": "Stable Diffusion",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Getty Images",
+    "predicate": "ALLEGED",
+    "object": "Stability AI copied images",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "High Court of England and Wales",
+    "predicate": "RULED",
+    "object": "Stability AI was not guilty of copyright infringement",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Stability AI",
+    "predicate": "USED",
+    "object": "Getty Images as a training set",
+    "source": "Stability AI"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "LOCATED_IN",
+    "object": "New York City",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "DEVELOPED",
+    "object": "computation tools",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Clément Delangue",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Julien Chaumond",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "Thomas Wolf",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "FOUNDED_BY",
+    "object": "2016",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "RELEASED",
+    "object": "BLOOM",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "BLOOM",
+    "predicate": "PART_OF",
+    "object": "BigScience Research Workshop",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "PARTNERED_WITH",
+    "object": "Amazon Web Services",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "CREATED_BY",
+    "object": "AWS",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "PARTNERED_WITH",
+    "object": "Meta",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "PARTNERED_WITH",
+    "object": "Scaleway",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "ACQUIRED",
+    "object": "Pollen Robotics",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Pollen Robotics",
+    "predicate": "FOUNDED_BY",
+    "object": "Matthieu Lapeyre",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Pollen Robotics",
+    "predicate": "FOUNDED_BY",
+    "object": "Pierre Rouanet",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Pollen Robotics",
+    "predicate": "FOUNDED_BY",
+    "object": "2016",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "JOINED",
+    "object": "International Decade of Indigenous Languages",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "RELEASED",
+    "object": "online language translator",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "online language translator",
+    "predicate": "BUILT_ON",
+    "object": "Meta's No Language Left Behind",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face, Inc.",
+    "predicate": "PART_OF",
+    "object": "EU AI ecosystem",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "BigScience Research Workshop",
+    "predicate": "RELEASED",
+    "object": "open large language model",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face",
+    "predicate": "ACQUIRED",
+    "object": "Pollen Robotics",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Pollen Robotics",
+    "predicate": "LOCATED_IN",
+    "object": "France",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Delangue",
+    "predicate": "JOINED",
+    "object": "Hugging Face",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face",
+    "predicate": "COMPETES_WITH",
+    "object": "Kaggle",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face",
+    "predicate": "COMPETES_WITH",
+    "object": "OpenAI",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face",
+    "predicate": "COMPETES_WITH",
+    "object": "TensorFlow Hub",
+    "source": "Hugging Face"
+  },
+  {
+    "subject": "Hugging Face",
+    "predicate": "PARTNERED_WITH",
+    "object": "Station F",
+    "source": "Hugging Face"
+  }
+]
