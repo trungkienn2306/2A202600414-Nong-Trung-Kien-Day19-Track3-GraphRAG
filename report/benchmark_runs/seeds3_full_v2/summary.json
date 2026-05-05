@@ -1,0 +1,48 @@
+{
+  "run_name": "seeds3_full_v2",
+  "generated_at": "2026-05-05T15:46:51Z",
+  "question_set": "custom file: data/multi-hops-question/multi-hops-question-v2.json",
+  "seeds": 3,
+  "question_count": 20,
+  "metrics": {
+    "overall_accuracy": {
+      "graphrag": 20.0,
+      "flatrag": 40.0,
+      "delta": -20.0
+    },
+    "multi_hop_accuracy": {
+      "graphrag": 20.0,
+      "flatrag": 40.0,
+      "delta": -20.0
+    },
+    "simple_accuracy": {
+      "graphrag": 0.0,
+      "flatrag": 0.0,
+      "delta": 0.0
+    },
+    "avg_latency_seconds": {
+      "graphrag": 2.192,
+      "flatrag": 1.942
+    },
+    "query_cost_usd": {
+      "graphrag": 0.003787,
+      "flatrag": 0.004535
+    }
+  },
+  "head_to_head": {
+    "graphrag_wins_count": 2,
+    "flatrag_wins_count": 6,
+    "graphrag_wins_ids": [
+      12,
+      13
+    ],
+    "flatrag_wins_ids": [
+      2,
+      3,
+      4,
+      6,
+      11,
+      16
+    ]
+  }
+}

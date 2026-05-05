@@ -1,0 +1,40 @@
+{
+  "run_name": "seeds5_test",
+  "generated_at": "2026-05-05T14:40:02Z",
+  "question_set": "test subset",
+  "seeds": 5,
+  "question_count": 5,
+  "metrics": {
+    "overall_accuracy": {
+      "graphrag": 40.0,
+      "flatrag": 60.0,
+      "delta": -20.0
+    },
+    "multi_hop_accuracy": {
+      "graphrag": 40.0,
+      "flatrag": 60.0,
+      "delta": -20.0
+    },
+    "simple_accuracy": {
+      "graphrag": 0.0,
+      "flatrag": 0.0,
+      "delta": 0.0
+    },
+    "avg_latency_seconds": {
+      "graphrag": 2.932,
+      "flatrag": 2.097
+    },
+    "query_cost_usd": {
+      "graphrag": 0.001096,
+      "flatrag": 0.000985
+    }
+  },
+  "head_to_head": {
+    "graphrag_wins_count": 0,
+    "flatrag_wins_count": 1,
+    "graphrag_wins_ids": [],
+    "flatrag_wins_ids": [
+      20
+    ]
+  }
+}

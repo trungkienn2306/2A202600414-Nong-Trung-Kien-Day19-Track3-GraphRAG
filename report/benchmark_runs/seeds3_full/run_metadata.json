@@ -1,0 +1,8 @@
+{
+  "run_name": "seeds3_full",
+  "question_set": "full (20 multi-hop)",
+  "question_count": 20,
+  "seeds": 3,
+  "force_reindex": false,
+  "questions_file": null
+}

@@ -1,0 +1,8 @@
+{
+  "run_name": "seeds3_full_v2",
+  "question_set": "custom file: data/multi-hops-question/multi-hops-question-v2.json",
+  "question_count": 20,
+  "seeds": 3,
+  "force_reindex": false,
+  "questions_file": "data/multi-hops-question/multi-hops-question-v2.json"
+}

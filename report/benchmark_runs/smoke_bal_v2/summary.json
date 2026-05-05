@@ -1,0 +1,48 @@
+{
+  "run_name": "smoke_bal_v2",
+  "generated_at": "2026-05-05T16:10:39Z",
+  "question_set": "custom file: data/multi-hops-question/multi-hops-question-v2.json + smoke(8)",
+  "seeds": 3,
+  "question_count": 8,
+  "metrics": {
+    "overall_accuracy": {
+      "graphrag": 25.0,
+      "flatrag": 75.0,
+      "delta": -50.0
+    },
+    "multi_hop_accuracy": {
+      "graphrag": 25.0,
+      "flatrag": 75.0,
+      "delta": -50.0
+    },
+    "simple_accuracy": {
+      "graphrag": 0.0,
+      "flatrag": 0.0,
+      "delta": 0.0
+    },
+    "avg_latency_seconds": {
+      "graphrag": 2.845,
+      "flatrag": 2.466
+    },
+    "query_cost_usd": {
+      "graphrag": 0.001996,
+      "flatrag": 0.001758
+    }
+  },
+  "head_to_head": {
+    "graphrag_wins_count": 2,
+    "flatrag_wins_count": 6,
+    "graphrag_wins_ids": [
+      12,
+      13
+    ],
+    "flatrag_wins_ids": [
+      2,
+      3,
+      4,
+      6,
+      11,
+      16
+    ]
+  }
+}

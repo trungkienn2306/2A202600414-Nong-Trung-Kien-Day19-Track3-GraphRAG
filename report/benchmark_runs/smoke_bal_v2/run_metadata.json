@@ -1,0 +1,8 @@
+{
+  "run_name": "smoke_bal_v2",
+  "question_set": "custom file: data/multi-hops-question/multi-hops-question-v2.json + smoke(8)",
+  "question_count": 8,
+  "seeds": 3,
+  "force_reindex": false,
+  "questions_file": "data/multi-hops-question/multi-hops-question-v2.json"
+}
